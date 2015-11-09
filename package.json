@@ -1,6 +1,6 @@
 {
   "name": "node-promise-retry",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A module that encapsulates promise retry logic",
   "main": "index.js",
   "scripts": {
